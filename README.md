@@ -1,5 +1,5 @@
 # Customer-Analytics-Segmentation-Project
-# Customer Analytics & Segmentation Project
+
 
 ## Overview
 This project demonstrates **end-to-end customer analytics** using **SQL and Python**, combining business intelligence with data science techniques. The goal is to generate actionable insights on customer behavior, profitability, and marketing effectiveness.
